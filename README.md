@@ -1,1 +1,1 @@
-# Pssword Generator
+# Pssword Generator with JavaScript
